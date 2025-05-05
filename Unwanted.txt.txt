@@ -1,0 +1,8 @@
+Project Objective
+The primary objective of this project is to analyze IMDB movie reviews and extract insights about viewer sentiments. 
+The project includes data cleaning, sentiment scoring, visualization of trends, and optional predictive modeling.
+
+Summary and Insights
+This project demonstrated how raw textual data from movie reviews can be cleaned, processed, and analyzed to uncover meaningful insights into audience sentiment. 
+The polarity-based approach provided a more granular view beyond binary classification. 
+This project also highlighted the value of visual exploration and basic natural language processing techniques in real-world data analytics.
